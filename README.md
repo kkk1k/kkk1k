@@ -48,7 +48,7 @@
 
 
 ## 📫 How to reach me
-**Portfolio** : [포트폴리오 보러가기](https://kkk1k.github.io/Portfolio/)  <br/>
+
 **Email** : googija9818@gmail.com   <br/>
 **Phone** : 010-4878-5958
 <br/>
