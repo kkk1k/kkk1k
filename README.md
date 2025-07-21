@@ -1,15 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
-
-  **안녕하세요. 프론트엔드 개발자 김한경입니다.**
-  
-  새로운 기술과 다양한 언어를 공부하는 것을 좋아합니다. 
-  
-<br/>
-<br/>
-
-
 ## 🔨 Once i've used
 <div>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
